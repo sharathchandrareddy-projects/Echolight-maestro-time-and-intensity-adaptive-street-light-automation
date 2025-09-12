@@ -1,0 +1,10 @@
+minimain.o: minimain.c
+minimain.o: C:\KeilARM\ARM\INC\Philips\lpc21xx.h
+minimain.o: lcd.h
+minimain.o: lcddefines.h
+minimain.o: rtc.h
+minimain.o: rtcdefines.h
+minimain.o: pinconnectblock.h
+minimain.o: delay.h
+minimain.o: kpm.h
+minimain.o: adc.h
